@@ -29,5 +29,5 @@ node index.js
 
 **Tatiana Marrugo Jiménez**
 
-Programa Desarrollador(a) Jr. Full Stack/Java
+Programa Desarrollador Jr. Full Stack/Java
 Generation Colombia
