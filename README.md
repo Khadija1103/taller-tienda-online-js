@@ -7,12 +7,11 @@ Proyecto desarrollado en JavaScript y Node.js que implementa conceptos de Progra
 ## Estructura del Proyecto
 
 ```text
-tienda/
-│
-├── usuario.js
-├── producto.js
-├── index.js
-└── README.md
+tienda/│
+usuario.js
+producto.js
+index.js
+README.md
 ```
 
 ## Funcionalidades
